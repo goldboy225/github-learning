@@ -13,6 +13,6 @@
 3. [Other awesome README Tools](https://github.com/dhyeythumar/awesome-readme-tools)
 
 ## ✅️ Google colab with github
-1. []()
-2. []()
-3. []()
+1. [Welcome To Colaboratory](https://colab.research.google.com/)
+2. [Google Colab — The Beginner’s Guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
+3. [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=YHI3vyhv5p85)
